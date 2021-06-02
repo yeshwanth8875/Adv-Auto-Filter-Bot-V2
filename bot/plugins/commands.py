@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'jon other channels', url="https://t.me/HDMVC_LINKS"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'join other channels', url=""
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'join other channels', url="https://t.me/HDMVC_LINKS"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('GROUP ', url='https://t.me/HDMOVIECOUNTER_GROUP '),
+        InlineKeyboardButton('CHANNEL', url ='https://t.me/joinchat/4LKOeMy0-mhjNTZl')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('MOVIE UPDATES', url='https://t.me/HDMOVIECOUNTER_NEW')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
