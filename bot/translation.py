@@ -40,7 +40,7 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെയെന്നു മുകളിൽ കാണും 
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
