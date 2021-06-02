@@ -5,9 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-ഞാൻ @HDMOVIECOUNTER_GROUP ൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് 
-എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയില്ല 
+<i>Am Just A Advance Auto Filter Bot....😉
 
+Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+
+For More Details Click Help Button Below..
+@CrazyBotsz
 </i>"""    
     
     HELP_TEXT = """
@@ -40,7 +43,7 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെയെന്നു മുകളിൽ കാണും 
+@CrazyBotsz
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
